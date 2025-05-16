@@ -1,1 +1,0 @@
-# estudos-jogo-do-numero-secreto
