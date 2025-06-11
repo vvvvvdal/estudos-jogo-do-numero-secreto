@@ -37,7 +37,7 @@ int main() {                                  // main é a função principal de
     int numeroGerado = rand();             // int declara uma variável que armazena um número inteiro
     int numeroSecreto = numeroGerado % 16; // o operador '%' retorna o resto da divisão entre dois números inteiros
                                            // o resto da divisão por '16' resultará em valores entre 1 e 15
-                            // o '%d' serve para imprimir variáveis que são números inteiros, ele será substituido
+                            // o '%' serve para imprimir variáveis que são números inteiros, ele será substituido
                             // pelo valor do número inteiro da variável numeroSecreto, que é 21
     
     int chute;
